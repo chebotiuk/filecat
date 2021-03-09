@@ -1,0 +1,6 @@
+filerun/html/*
+filerun/user-files/*
+filerun/db/*
+
+!filerun/html/.gitkeep
+!filerun/user-files/.gitkeep
